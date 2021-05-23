@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola a todos! 👋
 
 
-**mentorrolling/mentorrolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mentorrolling** es un repositorio ✨ _Especial_ ✨ usado para los ejercicios del curso Fullstack de **RollingCode School** (<>).
 
-Here are some ideas to get you started:
+Aquí encontrarás ejercicios y ejemplos de las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Frontend
+- 📟 HTML
+- 🎨 CSS
+- 📱 Bootstrap
+- 💻 Javascript
+- 💙 React
+
+### Backend
+- 🖥 NodeJS
+- 🍃 MongoDB
+
 
