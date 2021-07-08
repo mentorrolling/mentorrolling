@@ -1,6 +1,6 @@
 ### Hola a todos! 👋
 
-
+<!---
 **mentorrolling** es un repositorio ✨ _Especial_ ✨ usado para los ejercicios del curso Fullstack de **RollingCode School** (<>).
 
 Aquí encontrarás ejercicios y ejemplos de las siguientes tecnologías:
@@ -16,4 +16,4 @@ Aquí encontrarás ejercicios y ejemplos de las siguientes tecnologías:
 - 🖥 NodeJS
 - 🍃 MongoDB
 
-
+--->
